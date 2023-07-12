@@ -1,0 +1,322 @@
+
+body{
+    /*background-color: #ECF0F3;*/
+    height: 100%;
+    display: table;
+
+    margin: 0;
+    padding:0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    background-image: linear-gradient(
+        45deg,
+        hsl(240deg 100% 20%) 0%,
+        hsl(257deg 100% 23%) 21%,
+        hsl(275deg 100% 27%) 63%,
+        hsl(292deg 100% 30%) 87%,
+        hsl(309deg 100% 33%) 94%,
+        hsl(327deg 100% 37%) 98%,
+        hsl(344deg 100% 40%) 100%,
+        hsl(1deg 100% 43%) 100%,
+        hsl(19deg 100% 47%) 100%,
+        hsl(36deg 100% 50%) 100%
+    ); }
+.mainHead{
+    color: white;
+    position: relative;
+    top: 208px;
+    left: 117px;
+    font-family: 'Montserrat';
+}
+#name{
+    /*color: #F5F5F5;*/
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 47px;
+
+}
+.hide{
+    visibility: hidden;
+}
+font{
+    color: white;
+    font-family: 'Montserrat';
+}
+li{
+    color:white;
+}
+.bg-black{
+    width: 100%;
+
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+
+}
+.navbar-brand{
+    padding: 0 25px;
+
+}
+
+.gation{
+    background-color: black;
+
+}
+
+#element{
+    color: red;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 47px;
+}
+
+.navbar-brand:hover{
+
+    font-size: 1.4rem;
+
+}
+#navName{
+    color: black;
+    font-size: 25px;
+    position:relative;
+    right: 455px;
+}
+
+img{
+    width:300px;
+    height: 450px;
+    position: relative;
+    left: 900px;
+    top: -65px;
+    border-radius:50%;
+}
+
+.hr{
+
+    opacity: 1;
+    border: 2.5px solid white;
+    position: relative;
+    left: 250px;
+
+}
+h2{
+    color: white;
+    position: relative;
+    font-family: 'Montserrat';
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.vertical{
+    height: 400px;
+    width: 4px;
+    background-color: white;
+    position:relative;
+    bottom:19px;
+    left: 330px;
+    margin-right: 100px;
+
+}
+.hr1{
+    opacity: 1;
+    border: 2.5px solid white;
+    position: relative;
+    left: 334px;
+    bottom: 318px;
+    width: 356px;
+
+}
+.hr2{
+    opacity: 1;
+    border: 2.5px solid white;
+    position: relative;
+    left: 334px;
+    bottom: 200px;
+    width: 356px;
+
+}
+.hr3{
+    opacity: 1;
+    border: 2.5px solid white;
+    position: relative;
+    left: 334px;
+    bottom: 79px;
+    width: 356px;
+
+}
+.i1{
+width: 103px;
+    height: 94px;
+
+    position: relative;
+top: -428px;
+    left: 684px;
+}
+.i2{
+width: 103px;
+    height: 94px;
+
+    position: relative;
+       top: -430px;
+    left: 683px;
+
+}
+.i3{
+width: 103px;
+    height: 94px;
+
+    position: relative;
+   top: -431px;
+    left: 685px;
+
+}
+p{
+color: white;
+font-size: 20px;
+position: relative;
+    top: -426px;
+    left: 659px;
+
+   
+
+
+}
+.deco{
+display:inline-block;
+
+}
+.firstHr{
+ opacity: 1;
+    border: 2.5px solid white;
+    position: relative;
+    left: 250px;
+width:50%;
+
+}
+.card{ background: rgba( 255, 255, 255, 0.1 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+-backdrop-filter: blur( 12.5px );
+-webkit--backdrop-filter: blur( 12.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+height: 300px;
+position: relative;
+left: 265px;
+bottom: 285px;
+height:400px;
+}
+h2{
+  color:white;
+text-align: center;  
+font-family: 'kalam';
+text-emphasis: bold; 
+    
+}
+.contactImg{
+    width: 152px;
+    height: 147px;
+    align-items: center;
+    position: relative;
+    left: 272px;
+    top: 7px;
+opacity: 0.79;
+
+
+}
+
+/* CSS */
+.button-29 {
+  align-items: center;
+  appearance: none;
+  background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+  border: 0;
+  border-radius: 6px;
+  box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "JetBrains Mono",monospace;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s,transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow,transform;
+  font-size: 18px;
+width: 268px;
+    position: relative;
+    left: 212px;
+    bottom: -53px;
+}
+
+.button-29:focus {
+  box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+}
+
+.button-29:hover {
+  box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  transform: translateY(-2px);
+}
+
+.button-29:active {
+  box-shadow: #3c4fe0 0 3px 7px inset;
+  transform: translateY(2px);
+}
+
+
+#linkedinBtn{
+color: white;
+text-decoration: none;
+  font-family: sans-serif;  
+
+}
+
+.k{
+margin-top: 20px;
+    background-image: radial-gradient(100% 100% at 100% 0, #4ebf57 0, #067017 100%);
+ box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+
+}
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
