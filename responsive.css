@@ -1,0 +1,132 @@
+@media only screen and (min-width:1500px) and (max-width:1920px){
+    #navName{
+        right: 1075px;
+
+    }
+    img{
+        left: 1127px;
+    }
+    .mainHead{
+        left:238px;
+        display: block;
+        font-size: xxx-large;
+    }
+    #name{
+        font-size:55px;
+    }
+    #element{
+        font-size:55px;
+    }
+    button {
+        position: relative;
+        padding: 10px 20px;
+        border-radius: 7px;
+        border: 1px solid rgb(61, 106, 255);
+        font-size: 14px;
+        text-transform: uppercase;
+        font-weight: 600;
+        letter-spacing: 2px;
+        background: transparent;
+        color: #fff;
+        overflow: hidden;
+        box-shadow: 0 0 0 0 transparent;
+        -webkit-transition: all 0.2s ease-in;
+        -moz-transition: all 0.2s ease-in;
+        transition: all 0.2s ease-in;
+        top: 50px;
+        left: 262px;
+        /* size: ledger; */
+        width: 332px;
+        height: 75px;
+    }
+    .back {
+        position: relative;
+        left: 370px;
+    }  
+    hr#firstLine {
+        position: relative;
+        left: 621px;
+    } 
+
+    .card{
+        left:600px;
+    } 
+    .contactImg{
+        left:319px;
+    }
+    .button-29{
+        left:260px;
+    }
+
+}
+
+/*for pc*/
+@media only screen and (min-width:700px)and (max-width:1280px){
+    img{
+        left:670px;
+    }
+
+
+}
+/*for mobile*/
+@media only screen and (max-width:450px){
+    .bg-body-tertiary {
+        --bs-bg-opacity: 1;
+        background-color: rgba(var(--bs-tertiary-bg-rgb),var(--bs-bg-opacity))!important;
+        height: 69px;
+    }
+    .a{
+        visibility: hidden;
+
+    }
+    #navName {
+        color: black;
+        font-size: 25px;
+        position: relative;
+        right: 35px;
+        align-items: center;
+    }
+    button{
+
+        top:254px;
+        left:89px;
+    }
+    .card{
+        width: fit-content;
+        left:80px;
+    }
+    .contactImg {
+
+        left: 69px;
+        top: 7px;
+        opacity: 1;
+    }
+    .button-29{
+        position: initial;
+        margin-top:36px;
+    }
+    div#aboutSec {
+        position: relative;
+        align-items: center;
+        left: -465px;
+    }
+    h2#aboutMe {
+        position: relative;
+        left: 364px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
